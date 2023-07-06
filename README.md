@@ -1,7 +1,7 @@
 # Email_Formatter
 
-LangChain-Streamlit App
-This repo serves as a template for how to make your own LangChain apps on Streamlit.
+LangChain-Streamlit App:
+This repo serves as an app to convert random text to Formal/Informal E-mail in American/British Dialect.
 
 View Live App: [Click Here](https://email-formatter.streamlit.app/)
 
